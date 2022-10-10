@@ -459,6 +459,19 @@ const addresses = ["0xCF2546c1C375C8104b2a78350a12AB99c135C383","0xDeD94D5782B53
 		"type": "function"
 	},
 	{
+		"inputs": [],
+		"name": "FREE_MINTED",
+		"outputs": [
+			{
+				"internalType": "uint256",
+				"name": "",
+				"type": "uint256"
+			}
+		],
+		"stateMutability": "view",
+		"type": "function"
+	},
+	{
 		"inputs": [
 			{
 				"internalType": "address",
